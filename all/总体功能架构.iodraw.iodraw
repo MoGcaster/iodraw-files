@@ -26,7 +26,7 @@
           <mxGeometry x="115" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-16" value="任务分发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RTiGnXkL0Ta1dGg1hWh1-13">
-          <mxGeometry x="36" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="115" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-4" value="系统用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RTiGnXkL0Ta1dGg1hWh1-3">
           <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
@@ -50,6 +50,12 @@
         </mxCell>
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-24" value="爬取网页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RTiGnXkL0Ta1dGg1hWh1-17">
           <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTiGnXkL0Ta1dGg1hWh1-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="330" as="sourcePoint" />
+            <mxPoint x="480" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
