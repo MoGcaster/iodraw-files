@@ -37,6 +37,9 @@
             <mxPoint x="330" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RTiGnXkL0Ta1dGg1hWh1-35" value="调度层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RTiGnXkL0Ta1dGg1hWh1-3">
+          <mxGeometry x="30" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-17" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="90" width="200" height="440" as="geometry">
             <mxRectangle x="540" y="90" width="50" height="40" as="alternateBounds" />
@@ -81,8 +84,8 @@
             <mxPoint x="480" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RTiGnXkL0Ta1dGg1hWh1-35" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="290" width="60" height="30" as="geometry" />
+        <mxCell id="RTiGnXkL0Ta1dGg1hWh1-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
