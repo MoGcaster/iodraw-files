@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-1" value="用户交互界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="10" width="282" height="60" as="geometry" />
+          <mxGeometry x="70" y="10" width="670" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="90" width="444" height="440" as="geometry" />
@@ -32,7 +32,9 @@
           <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-17" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="90" width="200" height="440" as="geometry" />
+          <mxGeometry x="540" y="90" width="200" height="440" as="geometry">
+            <mxRectangle x="540" y="90" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-18" value="任务触发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RTiGnXkL0Ta1dGg1hWh1-17">
           <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
