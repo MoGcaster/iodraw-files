@@ -25,7 +25,7 @@
         <mxCell id="5GW_MmpXjkKIrav2tB-k-7" value="丢弃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5GW_MmpXjkKIrav2tB-k-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5GW_MmpXjkKIrav2tB-k-8" value="加入url_que" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
