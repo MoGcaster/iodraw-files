@@ -81,10 +81,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5GW_MmpXjkKIrav2tB-k-11" value="响应是否存在新链接" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="290" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5GW_MmpXjkKIrav2tB-k-12" value="加入url队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
