@@ -31,7 +31,7 @@
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-4" value="系统用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RTiGnXkL0Ta1dGg1hWh1-3">
           <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RTiGnXkL0Ta1dGg1hWh1-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="RTiGnXkL0Ta1dGg1hWh1-3">
+        <mxCell id="RTiGnXkL0Ta1dGg1hWh1-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.831;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="RTiGnXkL0Ta1dGg1hWh1-3" source="RTiGnXkL0Ta1dGg1hWh1-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="240" as="sourcePoint" />
             <mxPoint x="330" y="190" as="targetPoint" />
@@ -80,6 +80,9 @@
             <mxPoint x="430" y="330" as="sourcePoint" />
             <mxPoint x="480" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RTiGnXkL0Ta1dGg1hWh1-35" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="290" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
