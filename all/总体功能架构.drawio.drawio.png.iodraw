@@ -7,7 +7,7 @@
         <mxCell id="JhzDgybC1SqPE8S1AYkN-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="30" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JhzDgybC1SqPE8S1AYkN-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JhzDgybC1SqPE8S1AYkN-2" value="判断参数是否动态变化" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="120" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JhzDgybC1SqPE8S1AYkN-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
