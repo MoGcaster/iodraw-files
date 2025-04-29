@@ -32,7 +32,7 @@
           <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-17" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="90" width="200" height="200" as="geometry" />
+          <mxGeometry x="540" y="90" width="200" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
