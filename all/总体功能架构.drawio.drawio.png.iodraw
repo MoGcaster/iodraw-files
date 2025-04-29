@@ -8,10 +8,10 @@
           <mxGeometry x="30" y="120" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JhzDgybC1SqPE8S1AYkN-2" value="判断参数是否动态变化" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="120" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JhzDgybC1SqPE8S1AYkN-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="JhzDgybC1SqPE8S1AYkN-3" value="fuzz测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
