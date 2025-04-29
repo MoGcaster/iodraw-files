@@ -64,6 +64,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="RTiGnXkL0Ta1dGg1hWh1-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RTiGnXkL0Ta1dGg1hWh1-3" source="RTiGnXkL0Ta1dGg1hWh1-5" target="RTiGnXkL0Ta1dGg1hWh1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-17" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="90" width="200" height="460" as="geometry">
             <mxRectangle x="540" y="90" width="50" height="40" as="alternateBounds" />
