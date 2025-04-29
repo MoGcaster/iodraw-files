@@ -8,7 +8,7 @@
           <mxGeometry x="70" y="10" width="670" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="90" width="444" height="450" as="geometry" />
+          <mxGeometry x="70" y="90" width="444" height="460" as="geometry" />
         </mxCell>
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-5" value="任务下达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RTiGnXkL0Ta1dGg1hWh1-3">
           <mxGeometry x="270" y="30" width="120" height="60" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RTiGnXkL0Ta1dGg1hWh1-3">
-          <mxGeometry x="40" y="390" width="350" height="60" as="geometry" />
+          <mxGeometry x="40" y="430" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-17" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="90" width="200" height="440" as="geometry">
