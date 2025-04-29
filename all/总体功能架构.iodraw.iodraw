@@ -43,8 +43,8 @@
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-35" value="调度层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RTiGnXkL0Ta1dGg1hWh1-3">
           <mxGeometry x="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RTiGnXkL0Ta1dGg1hWh1-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RTiGnXkL0Ta1dGg1hWh1-3">
-          <mxGeometry x="40" y="430" width="350" height="30" as="geometry" />
+        <mxCell id="RTiGnXkL0Ta1dGg1hWh1-39" value="报告打印" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RTiGnXkL0Ta1dGg1hWh1-3">
+          <mxGeometry x="40" y="410" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RTiGnXkL0Ta1dGg1hWh1-17" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="90" width="200" height="440" as="geometry">
