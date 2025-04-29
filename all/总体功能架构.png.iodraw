@@ -68,14 +68,11 @@
         <mxCell id="5GW_MmpXjkKIrav2tB-k-9" value="请求页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5GW_MmpXjkKIrav2tB-k-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5GW_MmpXjkKIrav2tB-k-10" target="5GW_MmpXjkKIrav2tB-k-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5GW_MmpXjkKIrav2tB-k-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5GW_MmpXjkKIrav2tB-k-10" target="5GW_MmpXjkKIrav2tB-k-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5GW_MmpXjkKIrav2tB-k-10" value="请求是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="220" width="80" height="80" as="geometry" />
+          <mxGeometry x="280" y="220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5GW_MmpXjkKIrav2tB-k-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5GW_MmpXjkKIrav2tB-k-11" target="5GW_MmpXjkKIrav2tB-k-12">
           <mxGeometry relative="1" as="geometry" />
