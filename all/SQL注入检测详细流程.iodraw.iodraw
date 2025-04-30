@@ -33,8 +33,8 @@
         <mxCell id="206HNTpYq2SVT4GvD_J2-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="206HNTpYq2SVT4GvD_J2-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="206HNTpYq2SVT4GvD_J2-14" value="后台识别数据库类型，方便后续加载payloads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
