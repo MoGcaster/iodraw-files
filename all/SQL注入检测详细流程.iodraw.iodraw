@@ -36,8 +36,11 @@
         <mxCell id="206HNTpYq2SVT4GvD_J2-14" value="后台识别数据库类型，方便后续加载payloads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="206HNTpYq2SVT4GvD_J2-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="206HNTpYq2SVT4GvD_J2-15" value="尝试进行payloads匹配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="206HNTpYq2SVT4GvD_J2-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="260" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
