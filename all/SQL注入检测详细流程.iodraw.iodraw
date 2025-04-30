@@ -125,11 +125,14 @@
         <mxCell id="206HNTpYq2SVT4GvD_J2-41" value="是否相同" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="530" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="206HNTpYq2SVT4GvD_J2-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="206HNTpYq2SVT4GvD_J2-46" target="206HNTpYq2SVT4GvD_J2-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="206HNTpYq2SVT4GvD_J2-46" value="逻辑为真判断（and1=1）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="206HNTpYq2SVT4GvD_J2-48" value="与原始界面对比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
