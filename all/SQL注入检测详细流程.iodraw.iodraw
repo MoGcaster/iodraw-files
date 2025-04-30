@@ -122,6 +122,9 @@
         <mxCell id="206HNTpYq2SVT4GvD_J2-41" value="是否相同" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="530" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="206HNTpYq2SVT4GvD_J2-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
