@@ -137,6 +137,11 @@
         <mxCell id="206HNTpYq2SVT4GvD_J2-48" value="与原始界面对比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="206HNTpYq2SVT4GvD_J2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="206HNTpYq2SVT4GvD_J2-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="206HNTpYq2SVT4GvD_J2-52" value="是否相同" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="430" width="80" height="80" as="geometry" />
         </mxCell>
