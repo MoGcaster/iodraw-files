@@ -13,6 +13,9 @@
         <mxCell id="206HNTpYq2SVT4GvD_J2-4" value="fuzz测试判断参数是否动态变化" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="373.5" y="100" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="206HNTpYq2SVT4GvD_J2-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
