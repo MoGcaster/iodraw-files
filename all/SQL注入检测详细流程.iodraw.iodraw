@@ -19,6 +19,11 @@
         <mxCell id="206HNTpYq2SVT4GvD_J2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="206HNTpYq2SVT4GvD_J2-4" target="206HNTpYq2SVT4GvD_J2-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="206HNTpYq2SVT4GvD_J2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="206HNTpYq2SVT4GvD_J2-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="206HNTpYq2SVT4GvD_J2-4" value="fuzz测试判断参数是否动态变化" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="373.5" y="100" width="80" height="80" as="geometry" />
         </mxCell>
