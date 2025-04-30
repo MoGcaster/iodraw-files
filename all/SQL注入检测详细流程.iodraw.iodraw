@@ -128,6 +128,9 @@
         <mxCell id="206HNTpYq2SVT4GvD_J2-46" value="逻辑为真判断（and1=1）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="206HNTpYq2SVT4GvD_J2-48" value="与原始界面对比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
