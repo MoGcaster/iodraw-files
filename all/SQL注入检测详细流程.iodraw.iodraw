@@ -90,6 +90,9 @@
             <mxPoint x="90" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="206HNTpYq2SVT4GvD_J2-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="206HNTpYq2SVT4GvD_J2-19" target="206HNTpYq2SVT4GvD_J2-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="206HNTpYq2SVT4GvD_J2-19" value="是否相同" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="320" width="80" height="80" as="geometry" />
         </mxCell>
@@ -101,6 +104,9 @@
         </mxCell>
         <mxCell id="206HNTpYq2SVT4GvD_J2-36" value="判断逻辑是否为假（and1=2）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="206HNTpYq2SVT4GvD_J2-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
