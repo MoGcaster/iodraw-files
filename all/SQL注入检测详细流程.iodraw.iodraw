@@ -39,11 +39,17 @@
         <mxCell id="206HNTpYq2SVT4GvD_J2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="206HNTpYq2SVT4GvD_J2-12" target="206HNTpYq2SVT4GvD_J2-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="206HNTpYq2SVT4GvD_J2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="206HNTpYq2SVT4GvD_J2-12" target="206HNTpYq2SVT4GvD_J2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="206HNTpYq2SVT4GvD_J2-12" value="是否报错" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="100" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="206HNTpYq2SVT4GvD_J2-13" value="进入逻辑判断检测流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="206HNTpYq2SVT4GvD_J2-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="206HNTpYq2SVT4GvD_J2-14" target="206HNTpYq2SVT4GvD_J2-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="206HNTpYq2SVT4GvD_J2-14" value="后台识别数据库类型，方便后续加载payloads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="110" width="120" height="60" as="geometry" />
