@@ -48,8 +48,8 @@
         <mxCell id="206HNTpYq2SVT4GvD_J2-18" value="与原始界面对比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="206HNTpYq2SVT4GvD_J2-19" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="260" width="80" height="80" as="geometry" />
+        <mxCell id="206HNTpYq2SVT4GvD_J2-19" value="是否相同" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
