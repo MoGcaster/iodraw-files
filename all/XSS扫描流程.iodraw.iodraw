@@ -16,11 +16,20 @@
         <mxCell id="WIAkIz4keSGpyoblxRZF-2" value="发送url请求（post/cookie）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WIAkIz4keSGpyoblxRZF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WIAkIz4keSGpyoblxRZF-3" target="WIAkIz4keSGpyoblxRZF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WIAkIz4keSGpyoblxRZF-3" value="向待测参数提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WIAkIz4keSGpyoblxRZF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WIAkIz4keSGpyoblxRZF-6" target="WIAkIz4keSGpyoblxRZF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WIAkIz4keSGpyoblxRZF-6" value="参数是否动态变化" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIAkIz4keSGpyoblxRZF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WIAkIz4keSGpyoblxRZF-7" target="WIAkIz4keSGpyoblxRZF-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIAkIz4keSGpyoblxRZF-7" value="定位参数再页面DOM结构的位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="250" width="120" height="60" as="geometry" />
