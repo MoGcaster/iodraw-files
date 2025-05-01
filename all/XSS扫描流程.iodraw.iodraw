@@ -34,6 +34,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="WIAkIz4keSGpyoblxRZF-27" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIAkIz4keSGpyoblxRZF-23">
+          <mxGeometry x="-0.303" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WIAkIz4keSGpyoblxRZF-6" value="参数是否动态变化" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="110" width="80" height="80" as="geometry" />
         </mxCell>
@@ -68,6 +73,16 @@
               <mxPoint x="120" y="525" />
               <mxPoint x="231" y="525" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIAkIz4keSGpyoblxRZF-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIAkIz4keSGpyoblxRZF-25">
+          <mxGeometry x="0.6636" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIAkIz4keSGpyoblxRZF-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIAkIz4keSGpyoblxRZF-25">
+          <mxGeometry x="-0.1277" y="-9" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIAkIz4keSGpyoblxRZF-12" value="确定存在XSS漏洞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
