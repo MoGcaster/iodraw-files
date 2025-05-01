@@ -7,7 +7,10 @@
         <mxCell id="WIAkIz4keSGpyoblxRZF-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="130" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIAkIz4keSGpyoblxRZF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WIAkIz4keSGpyoblxRZF-2" value="发送url请求（post/cookie）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WIAkIz4keSGpyoblxRZF-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
