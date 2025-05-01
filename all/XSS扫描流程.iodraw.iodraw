@@ -54,7 +54,7 @@
         </mxCell>
         <mxCell id="WIAkIz4keSGpyoblxRZF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WIAkIz4keSGpyoblxRZF-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="530" as="targetPoint" />
+            <mxPoint x="120" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIAkIz4keSGpyoblxRZF-12" value="确定存在XSS漏洞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
