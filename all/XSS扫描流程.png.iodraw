@@ -40,9 +40,6 @@
         <mxCell id="AslcyEeBbp1fuzsyhv6_-12" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="AslcyEeBbp1fuzsyhv6_-9">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="AslcyEeBbp1fuzsyhv6_-13" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="184" width="140" height="26" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
