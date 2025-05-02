@@ -43,8 +43,8 @@
         <mxCell id="sh6ltjq45oM_jfA8vwD1-15" value="time" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="40" y="450" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="sh6ltjq45oM_jfA8vwD1-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="380" width="60" height="30" as="geometry" />
+        <mxCell id="sh6ltjq45oM_jfA8vwD1-16" value="time()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sh6ltjq45oM_jfA8vwD1-15">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
