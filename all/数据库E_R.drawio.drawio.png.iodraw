@@ -7,6 +7,9 @@
         <mxCell id="EptQva8fsPNBYaBbW2eh-4" value="Set_task" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="60" y="100" width="200" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="EptQva8fsPNBYaBbW2eh-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EptQva8fsPNBYaBbW2eh-4">
+          <mxGeometry y="30" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="EptQva8fsPNBYaBbW2eh-5" value="Container" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="340" y="400" width="200" height="200" as="geometry" />
         </mxCell>
@@ -21,9 +24,6 @@
         </mxCell>
         <mxCell id="EptQva8fsPNBYaBbW2eh-9" value="Container" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="340" y="100" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="EptQva8fsPNBYaBbW2eh-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75" y="178" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
