@@ -40,7 +40,7 @@
         <mxCell id="EptQva8fsPNBYaBbW2eh-7" value="urllib3" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="50" y="400" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="EptQva8fsPNBYaBbW2eh-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EptQva8fsPNBYaBbW2eh-7">
+        <mxCell id="EptQva8fsPNBYaBbW2eh-14" value="urlopen()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EptQva8fsPNBYaBbW2eh-7">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EptQva8fsPNBYaBbW2eh-8" value="Bloom_fliter" style="swimlane;" vertex="1" parent="1">
