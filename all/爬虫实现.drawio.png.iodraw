@@ -13,6 +13,11 @@
         <mxCell id="oCMjE7hlvB8NlTu7BnKW-9" value="blind_scan()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oCMjE7hlvB8NlTu7BnKW-2">
           <mxGeometry x="70" y="60" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="oCMjE7hlvB8NlTu7BnKW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oCMjE7hlvB8NlTu7BnKW-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oCMjE7hlvB8NlTu7BnKW-6" value="re" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="490" y="120" width="200" height="70" as="geometry" />
         </mxCell>
@@ -51,6 +56,9 @@
         </mxCell>
         <mxCell id="oCMjE7hlvB8NlTu7BnKW-19" value="response()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oCMjE7hlvB8NlTu7BnKW-16">
           <mxGeometry x="70" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oCMjE7hlvB8NlTu7BnKW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.04;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oCMjE7hlvB8NlTu7BnKW-14" target="oCMjE7hlvB8NlTu7BnKW-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
