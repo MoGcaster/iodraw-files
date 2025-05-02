@@ -4,14 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EptQva8fsPNBYaBbW2eh-1" value="Class1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="340" y="360" width="140" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="EptQva8fsPNBYaBbW2eh-2" value="&amp;lt;&amp;lt;stereotype1&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="EptQva8fsPNBYaBbW2eh-1">
-          <mxGeometry y="29" width="140" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="EptQva8fsPNBYaBbW2eh-3" value="stereotype property 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="EptQva8fsPNBYaBbW2eh-1">
-          <mxGeometry y="54" width="140" height="25" as="geometry" />
+        <mxCell id="EptQva8fsPNBYaBbW2eh-4" value="Container" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
