@@ -14,7 +14,7 @@
           <mxGeometry x="70" y="60" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oCMjE7hlvB8NlTu7BnKW-6" value="re" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="290" y="40" width="200" height="70" as="geometry" />
+          <mxGeometry x="310" y="120" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oCMjE7hlvB8NlTu7BnKW-7" value="search()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oCMjE7hlvB8NlTu7BnKW-6">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
@@ -46,7 +46,7 @@
         <mxCell id="oCMjE7hlvB8NlTu7BnKW-17" value="timeout()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oCMjE7hlvB8NlTu7BnKW-16">
           <mxGeometry x="70" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oCMjE7hlvB8NlTu7BnKW-19" value="response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oCMjE7hlvB8NlTu7BnKW-16">
+        <mxCell id="oCMjE7hlvB8NlTu7BnKW-19" value="response()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oCMjE7hlvB8NlTu7BnKW-16">
           <mxGeometry x="70" y="60" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
