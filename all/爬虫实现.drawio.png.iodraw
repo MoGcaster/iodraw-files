@@ -25,8 +25,11 @@
         <mxCell id="oCMjE7hlvB8NlTu7BnKW-4" value="time()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oCMjE7hlvB8NlTu7BnKW-8">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oCMjE7hlvB8NlTu7BnKW-11" value="Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="300" y="300" width="200" height="200" as="geometry" />
+        <mxCell id="oCMjE7hlvB8NlTu7BnKW-11" value="http" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="140" y="385" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oCMjE7hlvB8NlTu7BnKW-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
