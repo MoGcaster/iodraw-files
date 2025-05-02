@@ -22,8 +22,11 @@
         <mxCell id="FHp6X0XoNfAnuKHsPHXc-6" value="扫描器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FHp6X0XoNfAnuKHsPHXc-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="380" width="60" height="30" as="geometry" />
+        <mxCell id="FHp6X0XoNfAnuKHsPHXc-7" value="互联网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FHp6X0XoNfAnuKHsPHXc-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
