@@ -16,6 +16,9 @@
         <mxCell id="FHp6X0XoNfAnuKHsPHXc-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/server_farm.svg;" vertex="1" parent="1">
           <mxGeometry x="610" y="225" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="FHp6X0XoNfAnuKHsPHXc-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
