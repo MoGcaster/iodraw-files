@@ -7,6 +7,9 @@
         <mxCell id="FHp6X0XoNfAnuKHsPHXc-1" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="220" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="FHp6X0XoNfAnuKHsPHXc-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
