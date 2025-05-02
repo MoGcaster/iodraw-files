@@ -55,7 +55,7 @@
         <mxCell id="EptQva8fsPNBYaBbW2eh-27" value="bit_array()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EptQva8fsPNBYaBbW2eh-8">
           <mxGeometry y="90" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EptQva8fsPNBYaBbW2eh-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EptQva8fsPNBYaBbW2eh-8">
+        <mxCell id="EptQva8fsPNBYaBbW2eh-28" value="check()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EptQva8fsPNBYaBbW2eh-8">
           <mxGeometry y="120" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EptQva8fsPNBYaBbW2eh-9" value="crawl" style="swimlane;" vertex="1" parent="1">
