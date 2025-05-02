@@ -40,8 +40,11 @@
         <mxCell id="oCMjE7hlvB8NlTu7BnKW-15" value="urlunparse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oCMjE7hlvB8NlTu7BnKW-14">
           <mxGeometry x="70" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oCMjE7hlvB8NlTu7BnKW-16" value="Container" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="oCMjE7hlvB8NlTu7BnKW-16" value="requests" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="290" y="470" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oCMjE7hlvB8NlTu7BnKW-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
