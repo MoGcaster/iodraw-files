@@ -10,9 +10,6 @@
         <mxCell id="oCMjE7hlvB8NlTu7BnKW-3" value="active_scan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oCMjE7hlvB8NlTu7BnKW-2">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oCMjE7hlvB8NlTu7BnKW-4" value="blind_scan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oCMjE7hlvB8NlTu7BnKW-2">
-          <mxGeometry y="60" width="200" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="oCMjE7hlvB8NlTu7BnKW-6" value="re" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="290" y="40" width="200" height="70" as="geometry" />
         </mxCell>
@@ -21,6 +18,9 @@
         </mxCell>
         <mxCell id="oCMjE7hlvB8NlTu7BnKW-8" value="time" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="40" y="170" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oCMjE7hlvB8NlTu7BnKW-4" value="time()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oCMjE7hlvB8NlTu7BnKW-8">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oCMjE7hlvB8NlTu7BnKW-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="380" width="60" height="30" as="geometry" />
