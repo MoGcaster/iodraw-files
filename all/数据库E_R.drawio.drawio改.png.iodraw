@@ -13,7 +13,10 @@
         <mxCell id="L_1xcGBryq-2Gul8SAhP-4" value="确定注入类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L_1xcGBryq-2Gul8SAhP-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L_1xcGBryq-2Gul8SAhP-5" value="payloads添加闭合字符" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_1xcGBryq-2Gul8SAhP-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
