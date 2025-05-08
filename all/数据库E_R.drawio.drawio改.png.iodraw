@@ -61,10 +61,13 @@
         <mxCell id="L_1xcGBryq-2Gul8SAhP-19" value="进行对应的payloads测试，判断具体类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="L_1xcGBryq-2Gul8SAhP-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L_1xcGBryq-2Gul8SAhP-22" target="L_1xcGBryq-2Gul8SAhP-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L_1xcGBryq-2Gul8SAhP-22" value="进行盲注测试，判断是否存在漏洞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L_1xcGBryq-2Gul8SAhP-24" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L_1xcGBryq-2Gul8SAhP-24" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="630" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
