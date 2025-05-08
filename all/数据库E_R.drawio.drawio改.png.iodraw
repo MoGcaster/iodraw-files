@@ -40,11 +40,17 @@
         <mxCell id="L_1xcGBryq-2Gul8SAhP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="L_1xcGBryq-2Gul8SAhP-13" target="L_1xcGBryq-2Gul8SAhP-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="L_1xcGBryq-2Gul8SAhP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L_1xcGBryq-2Gul8SAhP-13" target="L_1xcGBryq-2Gul8SAhP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L_1xcGBryq-2Gul8SAhP-13" value="是否有回显" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L_1xcGBryq-2Gul8SAhP-15" value="盲注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_1xcGBryq-2Gul8SAhP-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
