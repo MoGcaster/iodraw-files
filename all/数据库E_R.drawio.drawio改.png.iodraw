@@ -58,7 +58,7 @@
         <mxCell id="L_1xcGBryq-2Gul8SAhP-17" value="非盲注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L_1xcGBryq-2Gul8SAhP-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L_1xcGBryq-2Gul8SAhP-19" value="进行对应的payloads测试，判断具体类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L_1xcGBryq-2Gul8SAhP-22" value="进行盲注测试，判断是否存在漏洞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
