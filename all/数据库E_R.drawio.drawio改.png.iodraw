@@ -76,8 +76,11 @@
         <mxCell id="L_1xcGBryq-2Gul8SAhP-27" value="字符型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L_1xcGBryq-2Gul8SAhP-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="L_1xcGBryq-2Gul8SAhP-28" value="数字型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L_1xcGBryq-2Gul8SAhP-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
