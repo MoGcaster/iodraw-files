@@ -8,10 +8,10 @@
           <mxGeometry x="310" y="310" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="I6KCBFprOWDSAmMimADX-2" value="Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="310" y="310" width="200" height="200" as="geometry" />
+          <mxGeometry x="300" y="140" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="I6KCBFprOWDSAmMimADX-3" value="Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="310" y="310" width="200" height="200" as="geometry" />
+          <mxGeometry x="60" y="140" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
