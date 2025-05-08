@@ -85,12 +85,6 @@
         <mxCell id="L_1xcGBryq-2Gul8SAhP-30" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="440" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L_1xcGBryq-2Gul8SAhP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.629;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L_1xcGBryq-2Gul8SAhP-4" target="L_1xcGBryq-2Gul8SAhP-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L_1xcGBryq-2Gul8SAhP-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="384" y="190" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
