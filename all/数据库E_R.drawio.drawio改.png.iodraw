@@ -61,10 +61,7 @@
         <mxCell id="L_1xcGBryq-2Gul8SAhP-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L_1xcGBryq-2Gul8SAhP-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="L_1xcGBryq-2Gul8SAhP-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L_1xcGBryq-2Gul8SAhP-22" value="进行盲注测试，判断是否存在漏洞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
