@@ -38,7 +38,7 @@
           <mxGeometry x="320" y="480" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ET4yKALen9Gf-CXlJ_tS-16" value="漏洞扫描数据管理" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="ET4yKALen9Gf-CXlJ_tS-1">
-          <mxGeometry x="530" y="480" width="205" height="60" as="geometry" />
+          <mxGeometry x="500" y="480" width="205" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
