@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ET4yKALen9Gf-CXlJ_tS-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="90" width="790" height="610" as="geometry" />
+          <mxGeometry x="30" y="90" width="790" height="610" as="geometry" />
         </mxCell>
         <mxCell id="ET4yKALen9Gf-CXlJ_tS-2" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="ET4yKALen9Gf-CXlJ_tS-1">
           <mxGeometry x="140" y="20" width="40" height="60" as="geometry" />
@@ -16,8 +16,8 @@
         <mxCell id="ET4yKALen9Gf-CXlJ_tS-4" value="服务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ET4yKALen9Gf-CXlJ_tS-1">
           <mxGeometry x="20" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ET4yKALen9Gf-CXlJ_tS-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="390" width="60" height="30" as="geometry" />
+        <mxCell id="ET4yKALen9Gf-CXlJ_tS-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ET4yKALen9Gf-CXlJ_tS-1">
+          <mxGeometry x="30" y="495" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
