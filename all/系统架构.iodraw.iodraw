@@ -52,7 +52,7 @@
         <mxCell id="ET4yKALen9Gf-CXlJ_tS-33" value="传入待扫url" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ET4yKALen9Gf-CXlJ_tS-11">
           <mxGeometry x="104" y="137.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ET4yKALen9Gf-CXlJ_tS-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ET4yKALen9Gf-CXlJ_tS-11">
+        <mxCell id="ET4yKALen9Gf-CXlJ_tS-36" value="扫描结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ET4yKALen9Gf-CXlJ_tS-11">
           <mxGeometry x="240" y="137.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ET4yKALen9Gf-CXlJ_tS-15" value="url数据管理" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="ET4yKALen9Gf-CXlJ_tS-1">
