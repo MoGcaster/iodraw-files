@@ -25,7 +25,10 @@
         <mxCell id="ET4yKALen9Gf-CXlJ_tS-11" value="" style="swimlane;startSize=0;" vertex="1" parent="ET4yKALen9Gf-CXlJ_tS-1">
           <mxGeometry x="260" y="205" width="490" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ET4yKALen9Gf-CXlJ_tS-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ET4yKALen9Gf-CXlJ_tS-12" value="爬取url" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ET4yKALen9Gf-CXlJ_tS-11">
+          <mxGeometry x="20" y="25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ET4yKALen9Gf-CXlJ_tS-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
