@@ -55,6 +55,9 @@
         <mxCell id="ET4yKALen9Gf-CXlJ_tS-36" value="扫描结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ET4yKALen9Gf-CXlJ_tS-11">
           <mxGeometry x="240" y="137.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ET4yKALen9Gf-CXlJ_tS-38" value="扫描数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ET4yKALen9Gf-CXlJ_tS-11">
+          <mxGeometry x="410" y="137.5" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="ET4yKALen9Gf-CXlJ_tS-15" value="url数据管理" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="ET4yKALen9Gf-CXlJ_tS-1">
           <mxGeometry x="270" y="480" width="150" height="60" as="geometry" />
         </mxCell>
@@ -103,7 +106,7 @@
             <mxPoint x="90" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ET4yKALen9Gf-CXlJ_tS-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ET4yKALen9Gf-CXlJ_tS-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
