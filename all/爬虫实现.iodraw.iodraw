@@ -41,7 +41,7 @@
             <mxPoint x="440" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EptQva8fsPNBYaBbW2eh-6" value="Container" style="swimlane;" parent="1" vertex="1">
+        <mxCell id="EptQva8fsPNBYaBbW2eh-6" value="urlparse" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="627" y="400" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EptQva8fsPNBYaBbW2eh-16" value="urlparse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="EptQva8fsPNBYaBbW2eh-6" vertex="1">
